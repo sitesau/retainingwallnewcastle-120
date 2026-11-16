@@ -1,0 +1,22 @@
+{
+  "wheel_id": 909,
+  "structure": "umbrella",
+  "slug": "retainingwallnewcastle-120",
+  "project": "retaining-walls-newcastle-common-mistakes-c6ff91b546f7edb279957",
+  "parent_t1_ref": "retainingwallnewcastle-159",
+  "node_role": "feeder",
+  "money_target": "retainingwallnewcastle.com.au",
+  "primary_kw": "retaining walls newcastle common mistakes",
+  "intended_url": "http://retaining-walls-newcastle-common-mistakes-c6ff91b546f7edb279957.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "afeea96b18fafdce",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-walls-newcastle-timeline-de037326d6c610c60ce374e43d9f/",
+      "anchor": "Retaining Walls Newcastle Timeline: Timeline and Approvals",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
